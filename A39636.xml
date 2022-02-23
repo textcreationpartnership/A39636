@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flagellum poeticum, or, A scourge for a wilde poet being an answer to Dr. Robert Wild's letter, directed to his friend Mr. J.J. upon occasion of His Majesties declaration for liberty of conscience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39636</idno>
+            <idno type="STC">Wing F1128</idno>
+            <idno type="STC">ESTC R7273</idno>
+            <idno type="EEBO-CITATION">11799774</idno>
+            <idno type="OCLC">ocm 11799774</idno>
+            <idno type="VID">49358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 492:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Flagellum poeticum, or, A scourge for a wilde poet being an answer to Dr. Robert Wild's letter, directed to his friend Mr. J.J. upon occasion of His Majesties declaration for liberty of conscience.</title>
+                  <author>J. J.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wild, Robert, 1609-1679. --  Letter from Dr. R.W. to his friend Mr. J.J. upon occasion of His Majesty's declaration for liberty of conscience.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49358:1"/>
+            <pb facs="tcp:49358:1" rendition="simple:additions"/>
+            <p>
+               <hi>FLAGELL<g ref="char:V">Ʋ</g>M POETIC<g ref="char:V">Ʋ</g>M:</hi> OR, A SCOURGE FOR A Wilde Poet.</p>
+            <p>BEING An Anſwer to Dr. <hi>Robert Wild</hi>'s Let<g ref="char:EOLhyphen"/>ter, Directed to his Friend Mr. <hi>J. J.</hi>
+            </p>
+            <p>Upon Occaſion of His Majeſties De<g ref="char:EOLhyphen"/>claration for <hi>Liberty of Conſcience.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. L.</hi> Anno Dom. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49358:2"/>
+            <pb n="3" facs="tcp:49358:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am ſo far from not believing you (as you ſay) a <hi>Merry Fellow,</hi> that I am deſirous to diſpoſſeſs all from that belief, from the relation you claim to a <hi>Beggar;</hi> and thoſe <hi>ſins</hi> you ſecretly exclaim againſt, which have regiſtred you in the number of <hi>Cripples;</hi> but give me leave to tell you, you are more merri<g ref="char:EOLhyphen"/>ly diſpos'd than the gravity of your <hi>Function</hi> can allow of. I do not ſee wherein you can further contribute to the <hi>jolly bluſh of your cheeks,</hi> than what you have done; had you been ſo much a lover of that <hi>pottage</hi> you pre<g ref="char:EOLhyphen"/>tend, you would have lookt more like a <hi>milk<g ref="char:EOLhyphen"/>ſop</hi> than you do: I like the man that carries in his face the tincture of that bloody banner he fights under, and would not have any mans countenance prove ſo much an Hypocrite to croſs a <hi>French Proverb:</hi>
+               <q>
+                  <l>His Noſe plainly proves,</l>
+                  <l>What Pottage he loves.</l>
+               </q>
+            </p>
+            <pb n="4" facs="tcp:49358:3"/>
+            <p>I am ſorry you diſcover the worſt ſymp<g ref="char:EOLhyphen"/>tome of a bad nature in your diſreſpect to Muſick; if that excellent Philoſopher ſpake true, he cannot be inclin'd to Virtue, that is not a lover of Harmony: And yet I perceive you are no enemy to <hi>Pſalm-tunes</hi> well whiſt<g ref="char:EOLhyphen"/>led; I pretend to no skill therein, wherefore I ſhall leave it to your judgment; it may be for the <hi>tunes</hi> ſake you admire the <hi>Pſalms</hi> too, ſo compos'd as if <hi>Hopkins</hi> had deſign'd therein to juſtle out the <hi>Lyturgie.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Pſalms,</hi> which if <hi>David,</hi> from his ſeat of bliſs,</l>
+               <l>Should hear, he'd little think they'r meant for his.</l>
+            </q>
+            <p>And now <hi>Sir,</hi> with a bob at <hi>Hierarchy,</hi> you come <hi>to a good King for your money;</hi> I hope you do not intend thereby to revive the <hi>old trade of King-ſelling;</hi> but let that paſs, and let us ſee what account you give of his <hi>Majeſties De<g ref="char:EOLhyphen"/>claration:</hi> but hold, <hi>I</hi> muſt traduce my obſer<g ref="char:EOLhyphen"/>vations on yours with this digreſſion. The Gentleman, who read your Letter to the
+<pb n="5" facs="tcp:49358:3"/>Company, wherein I was, had run over three Pages; but coming to that place, wherein you gave ſo exact an Account of the hour of the Day, by <hi>Mortals Maws yawning for Mor<g ref="char:EOLhyphen"/>ſels,</hi> and how much concern'd your own were, in the pains you took your ſelf, for their ſpee<g ref="char:EOLhyphen"/>dy ſatisfaction, I had then a brimmer of Claret at my Mouth; though that was full, my ears were open, &amp; ſome ſmall-head Louſe enter'd, which tickled them ſo Violently, that being forced into a Laughter, open flew the flood<g ref="char:EOLhyphen"/>gates of my Chops, and drowned the Eyes of my <hi>gentle Reader</hi> with Claret; this un-adviſed Laughter made his Eyes look Blood-ſhot, and his Band lookt as if it had been waſht in the Red-Sea; not knowing how to take this acci<g ref="char:EOLhyphen"/>dent, he askt, What might occaſion this my ſtrange diſorder; I could not ſo compoſe my ſelf, but my Anſwer was interrupted ſeveral times with Laughing; ſo that brokenly, I told him, that my fancy was fixt ſtrongly on the Doctors poſture, as he ſate hold<g ref="char:EOLhyphen"/>ing the <hi>Pan over the fire;</hi> ſomtimes <hi>I</hi> reſem<g ref="char:EOLhyphen"/>bled him to the hungry Ghoſt of <hi>Fryer Bacon;</hi>
+               <pb n="6" facs="tcp:49358:4"/>ſomtimes a <hi>New-England grave Elder,</hi> who as he turn'd the <hi>Herrings,</hi> did patiently ſuffer the <hi>ſparks of perſecution</hi> to flie about him uncon<g ref="char:EOLhyphen"/>cern'd, ſo that the appetite of <hi>Carnal ſatis<g ref="char:EOLhyphen"/>faction</hi> might have no cauſe to complain; but that which mov'd me moſt to laughter, was, the conſideration of this Carnal mans fearful deſertion; that that man, who was accuſtom<g ref="char:EOLhyphen"/>ed after the outragious heats of the Pulpit were over, to be immediatly put to Bed, with nine Caps to keep in his remaining Wit <hi>(too fleet of foot)</hi> and a quart of Muld Sack to lull him aſleep, now to be left alone to the fury of a <hi>ſputtering frying-pan,</hi> without the com<g ref="char:EOLhyphen"/>miſeration of a tender — hearted Petticoat. However <hi>I</hi> am ſorry for your ſlender atten<g ref="char:EOLhyphen"/>dance, and your being courſly dealt withall as to a Table-cloath; look not on't as any great penance, to have your Table cover'd with an Horſe-cloath, ſince it may be, at that very time when it belong'd to your Horſe, many <hi>Houſes of God</hi> were then turn'd into <hi>Stables.</hi> But why ſo angry Dr. with the <hi>Biſhops?</hi> What, is it becauſe your <hi>Sleeves</hi> are not of the ſame
+<pb n="7" facs="tcp:49358:4"/>complexion with theirs; if ſo, we have cauſe to believe that <hi>Holland</hi> hath rais'd all this difference; 'tis thought <hi>Father</hi>— mouth, with a <hi>Biſhoprick,</hi> had been ſilenc'd for ever railing ſo bitterly againſt the <hi>Prelats;</hi> but <hi>I</hi> have more charity for you, than to believe that the <hi>wind</hi> of <hi>Profit</hi> can blow your <hi>Wea<g ref="char:EOLhyphen"/>ther-cock</hi> where it liſt. And now <hi>I</hi> muſt com<g ref="char:EOLhyphen"/>mend your <hi>manners</hi> in lowring your <hi>Top-ſale</hi> to the <hi>Kings Arms;</hi> ſure 'twas no <hi>Steeple-crown'd Hat</hi> you wear, having an averſion to <hi>Steeples,</hi> and therefore have left them <hi>with the Ropes to the Sons of our Church,</hi> for which <hi>I</hi> muſt Ring you a peal, for ſtiling our Reverend Clergy <hi>Jack-daws,</hi> with other foul reflections, as if you intended to write your <hi>good old cauſe in Maſquerade.</hi> What? upon the merry pin again, here's laughing with all my heart, but at what <hi>I</hi> pray? His Majeſties Declaration ſhorne, <hi>or clipt, and looking like a poll'd</hi> Am<g ref="char:EOLhyphen"/>ſterdam <hi>Divine,</hi> or one of the <hi>Geneva</hi> Cut; ſure Sir, me-thinks this object ſhould be ſo far from procuring laughter in you, that it ſhould rather extract tears from the remembrance of
+<pb n="8" facs="tcp:49358:5"/>your <hi>Quondam Brethrens Sufferings,</hi> whoſe Buſie-Heads, and ſawcy Tongues, were cha<g ref="char:EOLhyphen"/>ſtiz'd <hi>by the loſs of their Ears; I</hi> hope yours ere long will lye more open to a better underſtan<g ref="char:EOLhyphen"/>ding. But now lets ſee what he obſerves in this <hi>Declaration:</hi> Why he acknowledgeth 'tis all goodneſs to their Party; then why do you thus ſnarle Mr. <hi>Dr?</hi> Since the <hi>Royal Clemency</hi> hath given both you, &amp; us, his leave to chooſe our way to our <hi>Everlaſting Reſt;</hi> let us not Juſtle one the other by the way, ſince we are all mixt <hi>(as in the Ark)</hi> together, let us not diſ<g ref="char:EOLhyphen"/>pute who are the <hi>Cleane,</hi> and who the <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>clean.</hi> And now give me leave to Laugh too; I perceive, you highly applaude the <hi>Month of March,</hi> for introducing your <hi>Years of Jubilee, the Fifteenth of that Month</hi> you eſteem above all other <hi>Holy-Days;</hi> from whence I obſerve, that though you ſlight thoſe the Church hath injoyn'd us to obſerve, yet you will not neg<g ref="char:EOLhyphen"/>lect the obſervance of one of your own ma<g ref="char:EOLhyphen"/>king. But whither do <hi>I</hi> Ramble? Hold, let me ſee; what feats of <hi>Activity</hi> the <hi>Dr.</hi> hath learn'd; <hi>Bartholomew Fair,</hi> is not far off: 'tis well he begins to practiſe, and may act his
+<pb n="9" facs="tcp:49358:5"/>well for ought I know; ſince he confeſſeth himſelf <hi>as nimble as the Gentleman that Dances on the High Rope;</hi> dancing on the <hi>High Rope</hi> is improper; yet though he is ignorant of the terms, he may better come to underſtand the Rope hereafter. And are you then ſo nim<g ref="char:EOLhyphen"/>ble? Had you been troubled with the <hi>Kings-Evill,</hi> it might have been <hi>ſtroak'd</hi> out of you; but of all the <hi>Remedies</hi> I have read of, that of a Plaiſter of <hi>Liberty of Conſcience,</hi> applied hot to the <hi>Patient,</hi> is, I find the moſt ſpeedy cure for a <hi>Gouty Diſtemper.</hi> This digreſſion had like to have made me forget what account he gives of his <hi>Miniſter,</hi> a pious, and prudent Man, and diſcovers no grimace's <hi>at the Lyturgie, as if he were drinking a Potion, nor in his Sermons make's other make<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>faces as if he were giving them one.</hi> It is well that this good Gentlemans Face is not rumpled as moſt of his <hi>Brethrens are,</hi> by drawing their mouths this way and that way, and opening their Jaws ſo wide, as if they would ſwallow the Lid of the Pulpit, and then ſuddainly ſhut them, as if they were ſnapping at Flies. Doctor, you may be igno<g ref="char:EOLhyphen"/>rant of the Carriage &amp; ridiculous Geſtures of
+<pb n="10" facs="tcp:49358:6"/>ſome of your Brethren in their Sermons, and therefore be pleas'd to mind in the concluding of this <hi>Pamphlet,</hi> what I lately obſerv'd in one of your <hi>Congregations.</hi>
+            </p>
+            <p>At laſt to conclude, you ſay <hi>mocking is cat<g ref="char:EOLhyphen"/>ching,</hi> and that there is Dirt enough in every ſtreet to be dawb one another with; 'tis very true, and I am very ſorry you flung the firſt <hi>Handful;</hi> you may be pelted with enough, if all were of a mind. The diſcharging of your Gun, in <hi>Garriſon,</hi> at this unſeaſonable time, ought to <hi>Alarum</hi> the <hi>Vigilent</hi> to ſtand upon their <hi>Guard;</hi> have a care of over-charging your Blunderbuſs, it may one time or other put your Shoulder out. Rail againſt the <hi>Pope</hi> as long as you pleaſe, it is ſafe enough, being far enough off; no Language is too bad for him, call him <hi>Crafty Knave</hi> (for he goes by ſeveral Names) 'tis all one to me; but trample not on the <hi>Aſhes</hi> of the <hi>Reverend Prelates,</hi> late<g ref="char:EOLhyphen"/>ly deceas'd; nor do not go about to extenuate the <hi>Light,</hi> of thoſe <hi>glorious Lamps,</hi> that in ſpite of <hi>Hell,</hi> will <hi>ſhine eminently</hi> in our <hi>Churches:</hi>
+               <q>
+                  <l>De Mortuis nil niſi bonum,</l>
+                  <l>De vivis nil niſi verum.</l>
+               </q>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:49358:6"/>
+            <head>Licentia Poetica: <hi>or, Obſervations on a late Silenc'd Miniſter.</hi>
+            </head>
+            <lg>
+               <l>IS, lately was, (I now may name the place)</l>
+               <l>(A pretty <hi>Covert</hi> for the <hi>Babes of Grace,</hi>)</l>
+               <l>Where <hi>ſilenc'd Miniſters</hi> enough were met,</l>
+               <l>To make a <hi>Synod;</hi> and may make one yet.</l>
+               <l>Their bleſſed <hi>Liberty</hi> th'ave found at laſt,</l>
+               <l>And talk'd for all thoſe years, of <hi>ſilence</hi> paſt.</l>
+               <l>Like ſome half-pin'd, and hunger-ſtarved men,</l>
+               <l>Who, when they next get Victuals, ſurfeit then.</l>
+               <l>In this <hi>Aſſembly,</hi> one, t'avoid conteſt,</l>
+               <l>Did mount the <hi>Pulpit,</hi> there to teach the reſt.</l>
+               <l>Where that we men, more patiently might hear</l>
+               <l>Non-ſence, to <hi>Heav'n</hi> at firſt, he ſpoke it there.</l>
+               <l>Firſt whin'd, then whiſper'd, then aloud did rore;</l>
+               <l>Now drew his long words, and then leapt'em o're.</l>
+               <l>Such various tones, that I admir'd, and ſaid,</l>
+               <l>Sure all the <hi>Congregation</hi> in him pray'd.</l>
+               <l>'Twas the moſt tedious Soul, the <hi>Diveleſt He</hi>
+               </l>
+               <l>That ever came to <hi>Doctrnies Twenty-three</hi>
+               </l>
+               <l>And Nineteen Uſes, how he drew his <hi>Hum,</hi>
+               </l>
+               <l>And quarter'd <hi>Haws,</hi> talkt naught but <hi>Opium.</hi>
+               </l>
+               <l>No Feaver a mans eyes could open keep;</l>
+               <l>All <hi>Argus</hi> body he'd have preacht aſleep.</l>
+               <l>For half an hour, nought but <hi>O Lord</hi> he cries,</l>
+               <l>
+                  <hi>Puk't warmneſs,</hi> and this melts the Siſters eyes:</l>
+               <l>They ſnob'd aloud, then did I loudly ſnore,</l>
+               <l>Till a kind <hi>Pſalm</hi> told me the dangers o're.</l>
+               <pb n="12" facs="tcp:49358:7"/>
+               <l>Being out of doors, one told me I muſt dine</l>
+               <l>With him, and to encourage, he had ſtore of wine.</l>
+               <l>I by this frien'd to his large Hall was led,</l>
+               <l>Where ſome Grave Clergy-men I ſaw, well fed,</l>
+               <l>But by a newer ſtile diſtinguiſhed;</l>
+               <l>Whether moſt renown'd <hi>Batchelours</hi> they be</l>
+               <l>Of Art, or reverend <hi>Sophs</hi> of no <hi>Degree.</hi>
+               </l>
+               <l>Now they diſcourſe, ſome ſtories here relate</l>
+               <l>Of bloody <hi>Papiſts, Plots</hi> againſt the <hi>State;</hi>
+               </l>
+               <l>But againſt <hi>Biſhops</hi> they all rail'd, and I</l>
+               <l>Said boldly I'de defend the <hi>Hierarchy.</hi>
+               </l>
+               <l>To th' <hi>Hierarchy</hi> they meant no harm at all,</l>
+               <l>But root and branch 'gainſt <hi>Biſhops;</hi> too't we fall:</l>
+               <l>I like a Fool, with Reaſons, and theſe men</l>
+               <l>With wreſted <hi>Scripture;</hi> a <hi>ſlye Teacher</hi> then</l>
+               <l>Thruſt in his ears, ſo ſpeaks th' <hi>Apoſtle</hi> too:</l>
+               <l>How ſpeaks he Friend? not through the noſe like you.</l>
+               <l>A hideous form was ready to begin,</l>
+               <l>When by moſt bleſſed fates the meat came in.</l>
+               <l>But then ſo long, ſo long a <hi>Grace</hi> was ſaid,</l>
+               <l>That a good Chriſtian, when he goes to bed,</l>
+               <l>Would be contented with a ſhorter Prayer;</l>
+               <l>O how the <hi>Saints</hi> injoy'd the <hi>Creature</hi> there!</l>
+               <l>Three Paſties in the minute of an hour,</l>
+               <l>Large, &amp; well wrought, they root &amp; branch devour.</l>
+               <l>They tooth a' naile fell to't; no lazie hand,</l>
+               <l>In vain the leſſer Pyes hope to withſtand.</l>
+               <l>On Geeſe, and Capons, with what zeal they feed,</l>
+               <l>And wondring cry, a goodly Bird indeed.</l>
+               <l>Their ſtomacks cram'd (as greedy as their eyes)</l>
+               <l>All ſtudy now, who ſhall appear moſt wiſe.</l>
+               <pb n="13" facs="tcp:49358:7"/>
+               <l>Their ſpirits warm'd, yet from'em no Jeſts came,</l>
+               <l>But what like <hi>Cripples halted,</hi> and were <hi>lame.</hi>
+               </l>
+               <l>At length ſays one, I think the <hi>Declaration</hi>
+               </l>
+               <l>Hath chang'd the doom of damning this whole <hi>Nation.</hi>
+               </l>
+               <l>Sweet <hi>Liberty of Conſcience</hi> makes me hate</l>
+               <l>All the <hi>ſupporters</hi> of <hi>uſurped State.</hi>
+               </l>
+               <l>Our freedom is inlarg'd, and that's a thing,</l>
+               <l>Will make me <hi>love,</hi> the once <hi>loath'd</hi> Name of <hi>King.</hi>
+               </l>
+               <l>He ſpake for all the reſt, and now I-tro,</l>
+               <l>'Tis time to feed our Souls; to Church we go.</l>
+               <l>Sans complement the pious man begins;</l>
+               <l>The <hi>ſuffering Pulpit</hi> groans for <hi>Iſraels ſins.</hi>
+               </l>
+               <l>Sins, which in number many though they be,</l>
+               <l>And <hi>crying</hi> ones, are yet leſs <hi>loud</hi> than <hi>He.</hi>
+               </l>
+               <l>Half melted, but more out of breath, he cries;</l>
+               <l>Not knowing what to ſay, he wipes his eyes.</l>
+               <l>Then this pretends, prolixity to ſhun,</l>
+               <l>But one word more belov'd, and I have done.</l>
+               <l>Would it were ſo, thought I, but much I fear,</l>
+               <l>That all will not be done theſe two hours here.</l>
+               <l>Now, now, he com's to't, <hi>as you will find it writ;</hi>
+               </l>
+               <l>Repeats his <hi>Text,</hi> and takes his leave of it.</l>
+               <l>And ſtreight to's Sermon in ſuch furious wiſe,</l>
+               <l>As made it what 'twas call'd, an <hi>Exerciſe.</hi>
+               </l>
+               <l>The Pulpit's his <hi>hot Bath;</hi> the Brethren's chear,</l>
+               <l>Roaſt Beef, and larded Turkeys break out here.</l>
+               <l>He dares not now, as thirteen years agoe,</l>
+               <l>When <hi>ſuperſtitious decency</hi> did grow,</l>
+               <l>He fear'd, too much in faſhion, whet his fiſt</l>
+               <l>Againſt the name of <hi>Altar,</hi> and of <hi>Prieſt.</hi>
+               </l>
+               <pb n="14" facs="tcp:49358:8"/>
+               <l>
+                  <hi>Paul</hi> and <hi>St. Peter</hi> ſure had had their Doom,</l>
+               <l>Had this ſame <hi>Frantick</hi> known they'd been at <hi>Rome.</hi>
+               </l>
+               <l>And now at laſt, that he may raiſe new fears,</l>
+               <l>And make his Gang ſhake their <hi>myſterious</hi> ears;</l>
+               <l>All is not well he doubts, and then begins</l>
+               <l>To tell, great puniſhments attend great ſins.</l>
+               <l>If he don't put us into frights, 'tis much,</l>
+               <l>And ſtile thoſe Judgments <hi>Ours,</hi> which waits the <hi>Dutch.</hi>
+               </l>
+               <l>At length, long <hi>Time,</hi> which doth conſume and waſt</l>
+               <l>All things, t'an end his Sermon brought at laſt.</l>
+               <l>Thus Sir, you have my Story, but am ſorry,</l>
+               <l>(<hi>Taunton</hi> excuſe) it is no better for you.</l>
+               <l>However read it, as you Peaſe are ſhelling;</l>
+               <l>For you will find, it is not worth the telling.</l>
+               <l>Excuſe this boldneſs, for I can't avoid</l>
+               <l>Thinking ſomtimes, you are but ill imployd.</l>
+               <l>
+                  <hi>Fiſhing for Souls,</hi> more fit, then <hi>frying fiſh;</hi>
+               </l>
+               <l>That makes me throw <hi>Peaſe-ſhellings</hi> in your <hi>diſh<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>You have a Study, Books wherein to look;</l>
+               <l>How com's it then the <hi>Doctor</hi>'s turn'd a <hi>Cook?</hi>
+               </l>
+               <l>Well <hi>Doctor Cook,</hi> pray be advis'd, hereafter</l>
+               <l>Don't make your <hi>Wife</hi> the ſubject of our laughter.</l>
+               <l>I find She's careleſs, and your maid a Slut</l>
+               <l>To let you greaſe your <hi>Caſſock</hi> for your Gut.</l>
+               <l>You are all three in fault, by all that's bleſt;</l>
+               <l>Mend you your manners firſt, then teach the reſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="15" facs="tcp:49358:8"/>
+            <head>
+               <hi>One uſe of Exhortation</hi> Doctor <hi>to your</hi> Siſters, <hi>and I've done.</hi>
+            </head>
+            <lg>
+               <l>PRay don't complain, you now United are;</l>
+               <l>And are not ſtraited in your <hi>Goſpel fair.</hi>
+               </l>
+               <l>Let not <hi>Pluralty's</hi> then be t'ane away,</l>
+               <l>Though men learn thence, to keep two Wives, you ſay.</l>
+               <l>And let not <hi>Schollarſhip</hi> I pray go down;</l>
+               <l>O fie, your <hi>Sex</hi> ſo cruel to the <hi>Gown.</hi>
+               </l>
+               <l>You don't the kindneſs of ſome Schollars know;</l>
+               <l>The <hi>Cambridg-Women</hi> would not have it ſo.</l>
+               <l>
+                  <hi>Learning</hi>'s the <hi>Lamp</hi> o'th' <hi>Land,</hi> which ſhines ſo bright</l>
+               <l>Y'are not ſ'immodeſt to put out the light.</l>
+               <l>Theſe things y'are griev'd at; but I pray what next?</l>
+               <l>O with our <hi>Churches ſolemn forms</hi> y'are vext.</l>
+               <l>The <hi>Sign</hi> o'th' <hi>Croſs,</hi> the forehead muſt not bear;</l>
+               <l>'Twas only you were born to <hi>plant Signs</hi> there.</l>
+               <l>
+                  <hi>No Surplices.</hi> Why none I pray d'ye crave?</l>
+               <l>They'r <hi>Raggs</hi> of <hi>Rome.</hi> I know what y'ould have.</l>
+               <l>Y'oud Preach I warrant? Do ſo, for no doubt,</l>
+               <l>A finer <hi>Preaching Age,</hi> y'oul ne're find out;</l>
+               <l>Y'ave got the <hi>Sp'rit,</hi> nay <hi>firy tongues,</hi> I troe,</l>
+               <l>And by your talk, they ſhould be double too.</l>
+               <l>O Times, O Manners! But me-thinks I ſtay</l>
+               <l>Somwhat too long, take ſo much for to day;</l>
+               <l>Hereafter more, hence be not thus beguil'd,</l>
+               <l>You'le find we'ave <hi>Muſes</hi> too, as well as <hi>Wild.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
